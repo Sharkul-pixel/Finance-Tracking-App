@@ -6,8 +6,8 @@ import NewExpense from './components/newExpense/NewExpense';
 const Dummy_Expenses = [
   {
     id: 'e1',
-    title: 'Shoes -> (Example)',
-    amount: 94.12,
+    title: 'New Shoes -> (Example)',
+    amount: 257.12,
     date: new Date(2024, 5, 14),
   },
   { 
