@@ -24,7 +24,7 @@ const Dummy_Expenses = [
   {
     id: 'e4',
     title: 'New Desk -> (Example)',
-    amount: 450.00,
+    amount: 100.00,
     date: new Date(2024, 5, 12),
   },
 ];
