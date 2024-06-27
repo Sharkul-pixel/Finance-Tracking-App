@@ -8,7 +8,7 @@ const Dummy_Expenses = [
     id: 'e1',
     title: 'New Shoes -> (Example)',
     amount: 257.12,
-    date: new Date(2024, 5, 14),
+    date: new Date(2024, 4, 14),
   },
   { 
     id: 'e2', 
