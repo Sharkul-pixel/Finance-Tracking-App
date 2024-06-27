@@ -7,24 +7,24 @@ const Dummy_Expenses = [
   {
     id: 'e1',
     title: 'New Shoes -> (Example)',
-    amount: 257.12,
+    amount: 200.00,
     date: new Date(2024, 4, 14),
   },
   { 
     id: 'e2', 
     title: 'New TV -> (Example)', 
-    amount: 799.49, 
+    amount: 150.00, 
     date: new Date(2024, 3, 12) },
   {
     id: 'e3',
     title: 'Car Insurance -> (Example)',
-    amount: 294.67,
+    amount: 300.00,
     date: new Date(2024, 2, 28),
   },
   {
     id: 'e4',
     title: 'New Desk -> (Example)',
-    amount: 450,
+    amount: 450.00,
     date: new Date(2024, 5, 12),
   },
 ];
