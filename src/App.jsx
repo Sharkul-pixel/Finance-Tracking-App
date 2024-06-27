@@ -18,7 +18,7 @@ const Dummy_Expenses = [
   {
     id: 'e3',
     title: 'Car Insurance -> (Example)',
-    amount: 300.00,
+    amount: 250.00,
     date: new Date(2024, 2, 28),
   },
   {
